@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Laptop</folder>
+	<filename>60.jpg</filename>
+	<path>C:\data_science\Laptop\60.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>863</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>laptop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>184</ymin>
+			<xmax>823</xmax>
+			<ymax>762</ymax>
+		</bndbox>
+	</object>
+</annotation>

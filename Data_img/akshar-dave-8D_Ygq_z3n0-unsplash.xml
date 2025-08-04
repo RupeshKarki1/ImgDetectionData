@@ -1,0 +1,26 @@
+<annotation>
+	<folder>phoneImg</folder>
+	<filename>akshar-dave-8D_Ygq_z3n0-unsplash.jpg</filename>
+	<path>C:\Users\sadno\Desktop\ecoJupyter\imgs\phoneImg\akshar-dave-8D_Ygq_z3n0-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2665</width>
+		<height>4346</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>p6</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>804</xmin>
+			<ymin>1056</ymin>
+			<xmax>1875</xmax>
+			<ymax>3085</ymax>
+		</bndbox>
+	</object>
+</annotation>

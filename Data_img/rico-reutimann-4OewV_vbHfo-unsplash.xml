@@ -1,0 +1,26 @@
+<annotation>
+	<folder>phoneImg</folder>
+	<filename>rico-reutimann-4OewV_vbHfo-unsplash.jpg</filename>
+	<path>C:\Users\sadno\Desktop\ecoJupyter\imgs\phoneImg\rico-reutimann-4OewV_vbHfo-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>6000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>p6</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1226</xmin>
+			<ymin>2150</ymin>
+			<xmax>3013</xmax>
+			<ymax>4330</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>phoneImg</folder>
+	<filename>pexels-hammad-khalid-155549-1786433.jpg</filename>
+	<path>C:\Users\sadno\Desktop\ecoJupyter\imgs\phoneImg\pexels-hammad-khalid-155549-1786433.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3748</width>
+		<height>4685</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>p6</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>963</xmin>
+			<ymin>487</ymin>
+			<xmax>2589</xmax>
+			<ymax>3645</ymax>
+		</bndbox>
+	</object>
+</annotation>

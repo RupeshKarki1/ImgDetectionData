@@ -1,0 +1,26 @@
+<annotation>
+	<folder>phoneImg</folder>
+	<filename>pexels-karolina-grabowska-8947493.jpg</filename>
+	<path>C:\Users\sadno\Desktop\ecoJupyter\imgs\phoneImg\pexels-karolina-grabowska-8947493.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4480</width>
+		<height>6720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>p6</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1378</xmin>
+			<ymin>2195</ymin>
+			<xmax>3201</xmax>
+			<ymax>5156</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>phoneImg</folder>
+	<filename>masakaze-kawakami-kknrCfZHsyo-unsplash.jpg</filename>
+	<path>C:\Users\sadno\Desktop\ecoJupyter\imgs\phoneImg\masakaze-kawakami-kknrCfZHsyo-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4566</width>
+		<height>3424</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>p6</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1425</xmin>
+			<ymin>95</ymin>
+			<xmax>3137</xmax>
+			<ymax>3341</ymax>
+		</bndbox>
+	</object>
+</annotation>

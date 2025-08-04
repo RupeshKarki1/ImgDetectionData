@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pens</folder>
+	<filename>istockphoto-1281126050-612x612.jpg</filename>
+	<path>D:\pens\istockphoto-1281126050-612x612.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>135</ymin>
+			<xmax>431</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>

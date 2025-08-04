@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pens</folder>
+	<filename>PhotoRoom_20220221_233059.webp</filename>
+	<path>D:\pens\PhotoRoom_20220221_233059.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>196</ymin>
+			<xmax>837</xmax>
+			<ymax>865</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pens</folder>
+	<filename>compress-img.webp</filename>
+	<path>D:\pens\compress-img.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>610</width>
+		<height>610</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>16</ymin>
+			<xmax>588</xmax>
+			<ymax>596</ymax>
+		</bndbox>
+	</object>
+</annotation>

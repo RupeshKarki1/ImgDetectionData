@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cups</folder>
+	<filename>istockphoto-821282266-612x612.jpg</filename>
+	<path>C:\Users\HP\Downloads\cups\istockphoto-821282266-612x612.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>459</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>9</ymin>
+			<xmax>597</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>

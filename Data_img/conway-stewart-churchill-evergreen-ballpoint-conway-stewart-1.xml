@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pens</folder>
+	<filename>conway-stewart-churchill-evergreen-ballpoint-conway-stewart-1.webp</filename>
+	<path>D:\pens\conway-stewart-churchill-evergreen-ballpoint-conway-stewart-1.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>11</ymin>
+			<xmax>3905</xmax>
+			<ymax>3915</ymax>
+		</bndbox>
+	</object>
+</annotation>

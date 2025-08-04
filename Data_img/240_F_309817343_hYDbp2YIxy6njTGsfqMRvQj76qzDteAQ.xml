@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pens</folder>
+	<filename>240_F_309817343_hYDbp2YIxy6njTGsfqMRvQj76qzDteAQ.jpg</filename>
+	<path>D:\pens\240_F_309817343_hYDbp2YIxy6njTGsfqMRvQj76qzDteAQ.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>12</ymin>
+			<xmax>195</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>

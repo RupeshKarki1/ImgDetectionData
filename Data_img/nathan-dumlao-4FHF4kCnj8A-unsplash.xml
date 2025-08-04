@@ -1,0 +1,26 @@
+<annotation>
+	<folder>phoneImg</folder>
+	<filename>nathan-dumlao-4FHF4kCnj8A-unsplash.jpg</filename>
+	<path>C:\Users\sadno\Desktop\ecoJupyter\imgs\phoneImg\nathan-dumlao-4FHF4kCnj8A-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5409</width>
+		<height>8110</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>p6</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2277</xmin>
+			<ymin>1904</ymin>
+			<xmax>4904</xmax>
+			<ymax>6059</ymax>
+		</bndbox>
+	</object>
+</annotation>

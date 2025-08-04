@@ -1,0 +1,26 @@
+<annotation>
+	<folder>male</folder>
+	<filename>istockphoto-182827470-612x612.jpg</filename>
+	<path>C:\Users\Lenovo\Documents\male\istockphoto-182827470-612x612.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Male</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>41</ymin>
+			<xmax>449</xmax>
+			<ymax>612</ymax>
+		</bndbox>
+	</object>
+</annotation>

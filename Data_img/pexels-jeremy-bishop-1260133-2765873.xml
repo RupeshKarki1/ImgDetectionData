@@ -1,0 +1,26 @@
+<annotation>
+	<folder>phoneImg</folder>
+	<filename>pexels-jeremy-bishop-1260133-2765873.jpg</filename>
+	<path>C:\Users\sadno\Desktop\ecoJupyter\imgs\phoneImg\pexels-jeremy-bishop-1260133-2765873.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5009</width>
+		<height>7510</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>p6</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1837</xmin>
+			<ymin>2834</ymin>
+			<xmax>3195</xmax>
+			<ymax>5284</ymax>
+		</bndbox>
+	</object>
+</annotation>

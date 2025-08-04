@@ -1,0 +1,26 @@
+<annotation>
+	<folder>phoneImg</folder>
+	<filename>coinview-app-h7a6g0ua6LM-unsplash.jpg</filename>
+	<path>C:\Users\sadno\Desktop\ecoJupyter\imgs\phoneImg\coinview-app-h7a6g0ua6LM-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4088</width>
+		<height>2725</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>p6</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1574</xmin>
+			<ymin>361</ymin>
+			<xmax>2640</xmax>
+			<ymax>2328</ymax>
+		</bndbox>
+	</object>
+</annotation>

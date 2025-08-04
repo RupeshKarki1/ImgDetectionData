@@ -1,0 +1,26 @@
+<annotation>
+	<folder>phoneImg</folder>
+	<filename>mateusz-tworuszka-i1NVG4kayY0-unsplash.jpg</filename>
+	<path>C:\Users\sadno\Desktop\ecoJupyter\imgs\phoneImg\mateusz-tworuszka-i1NVG4kayY0-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5496</width>
+		<height>3670</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>p6</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1920</xmin>
+			<ymin>481</ymin>
+			<xmax>3300</xmax>
+			<ymax>3305</ymax>
+		</bndbox>
+	</object>
+</annotation>
